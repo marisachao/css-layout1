@@ -40,6 +40,10 @@ body {
 }
 
 .box a.read-more {
+    display: block;
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 1px solid #ccc;
 }
 
 .footer {
