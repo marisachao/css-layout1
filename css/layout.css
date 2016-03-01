@@ -5,6 +5,8 @@ body {
 }
 
 .heading {
+    left: 0px;
+    top: 0px;
     position: fixed;
     width: 100%;
     padding: 10px;
