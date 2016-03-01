@@ -21,6 +21,7 @@ body {
     width: 30%;
     float: left;
     margin: 2%;
+    position: relative;
 }
 
 .box:last-child {
