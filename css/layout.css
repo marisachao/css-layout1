@@ -18,7 +18,9 @@ body {
 }
 
 .box {
-    top: 10%;
+    width: 30%;
+    float: left;
+    margin: 2%;
 }
 
 .box:last-child {
