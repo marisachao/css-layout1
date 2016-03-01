@@ -18,10 +18,12 @@ body {
 }
 
 .box {
-    width: 30%;
+    width: 29%;
     float: left;
     margin: 2%;
     position: relative;
+    top: 10px;
+    left: 0px;
 }
 
 .box:last-child {
