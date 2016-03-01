@@ -27,6 +27,8 @@ body {
 }
 
 .box h2 {
+    position: relative;
+    width: 26%;
 }
 
 .box img {
