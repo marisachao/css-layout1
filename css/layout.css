@@ -22,7 +22,7 @@ body {
     float: left;
     margin: 2%;
     position: relative;
-    top: 10px;
+    top: 50px;
     left: 0px;
 }
 
@@ -30,10 +30,14 @@ body {
 }
 
 .box h2 {
+    position: relative;
 }
 
 .box img {
     position: relative;
+    width: 25%;
+    left: 2%;
+    right: 2%;
 }
 
 .box a.read-more {
