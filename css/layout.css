@@ -5,6 +5,7 @@ body {
 }
 
 .heading {
+    position: fixed;
 }
 
 .heading h1 {
@@ -26,4 +27,5 @@ body {
 }
 
 .footer {
+    position: fixed;
 }
