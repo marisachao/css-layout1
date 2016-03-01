@@ -33,7 +33,8 @@ body {
 }
 
 .box img {
-    width: 25%;
+    position: relative;
+    width: 28%;
 }
 
 .box a.read-more {
