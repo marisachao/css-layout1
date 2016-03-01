@@ -18,6 +18,7 @@ body {
 }
 
 .box {
+    top: 10%;
 }
 
 .box:last-child {
