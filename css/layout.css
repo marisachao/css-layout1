@@ -31,10 +31,10 @@ body {
 
 .box h2 {
     position: relative;
-    width: 10%;
 }
 
 .box img {
+    position: relative;
 }
 
 .box a.read-more {
